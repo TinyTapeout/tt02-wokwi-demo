@@ -14,11 +14,11 @@ project:
 #
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation: 
-  author:       ""      # Your name
-  title:        ""      # Project title
-  description:  ""      # Short description of what your project does
-  how_it_works: ""      # Longer description of how the project works
-  how_to_test:  ""      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
+  author:       "matt venn"      # Your name
+  title:        "test design"      # Project title
+  description:  "when the code is set, the segments will light up"      # Short description of what your project does
+  how_it_works: "compares the input with a secret, if correct turn on the led"      # Longer description of how the project works
+  how_to_test:  "set the input to 123"      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   external_hw:  ""      # Describe any external hardware needed
   language:     "wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   doc_link:     ""      # URL to longer form documentation, eg the README.md in your repository
