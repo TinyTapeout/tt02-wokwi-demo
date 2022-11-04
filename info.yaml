@@ -15,6 +15,7 @@ project:
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation: 
   author:       "matt venn"      # Your name
+  discord:      "mattvenn"
   title:        "test design"      # Project title
   description:  "when the code is set, the segments will light up"      # Short description of what your project does
   how_it_works: "compares the input with a secret, if correct turn on the led"      # Longer description of how the project works
